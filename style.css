@@ -173,8 +173,7 @@
 .menu{
   width: 420px;
   background-color: #121212;
-  height: 490px;
-  position: fixed;
+  height: 750px;
   display: none;
   flex-direction: column;
   position: sticky;
@@ -200,8 +199,9 @@
 }
 .close-main{
   background-color: #121212;
-  width: 30px;
-  margin-top: -60px;
+  width: 50px;
+  height: 60px;
+  margin-top: -45px;
   margin-left: 15px;
 }
 @media (max-width:992px) {
